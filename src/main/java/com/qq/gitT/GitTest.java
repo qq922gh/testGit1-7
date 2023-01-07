@@ -13,5 +13,6 @@ public class GitTest {
         //hot fix-22
         System.out.println("hello2");
         //push test
+        //pull test
     }
 }

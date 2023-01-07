@@ -12,6 +12,6 @@ public class GitTest {
         System.out.println("hello2");
         //hot fix-22
         System.out.println("hello2");
-
+        //push test
     }
 }
